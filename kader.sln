@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "show_net_adapter", "show_net_adapter\show_net_adapter.csproj", "{5A0CCF28-199C-4994-AA41-821D62F7EE6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "change_ip", "change_ip\change_ip.csproj", "{CE7F08AF-057A-4BD7-9041-E3574D998424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sense_unplug", "sense_unplug\sense_unplug.csproj", "{F7393693-DC86-496A-999B-EC596CD950AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8971AF0F-7694-46DA-BF80-2D8C8069B984}"
+	ProjectSection(SolutionItems) = preProject
+		_READ_ME_FIRST.txt = _READ_ME_FIRST.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sense_unplug_evlog", "sense_unplug_evlog\sense_unplug_evlog.csproj", "{F90AC033-63FF-46B4-9792-1487028BCDBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A0CCF28-199C-4994-AA41-821D62F7EE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0CCF28-199C-4994-AA41-821D62F7EE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0CCF28-199C-4994-AA41-821D62F7EE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0CCF28-199C-4994-AA41-821D62F7EE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE7F08AF-057A-4BD7-9041-E3574D998424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7F08AF-057A-4BD7-9041-E3574D998424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7F08AF-057A-4BD7-9041-E3574D998424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7F08AF-057A-4BD7-9041-E3574D998424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7393693-DC86-496A-999B-EC596CD950AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7393693-DC86-496A-999B-EC596CD950AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7393693-DC86-496A-999B-EC596CD950AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7393693-DC86-496A-999B-EC596CD950AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F90AC033-63FF-46B4-9792-1487028BCDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90AC033-63FF-46B4-9792-1487028BCDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90AC033-63FF-46B4-9792-1487028BCDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90AC033-63FF-46B4-9792-1487028BCDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
